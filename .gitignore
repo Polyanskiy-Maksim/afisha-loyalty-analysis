@@ -1,0 +1,28 @@
+# env
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# jupyter
+.ipynb_checkpoints/
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# vscode
+.vscode/
+
+# logs
+*.log
+
+# system
+Thumbs.db
